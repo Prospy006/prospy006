@@ -1,4 +1,7 @@
-[![Prospy's Github Statistics](https://github-readme-stats.vercel.app/api?username=prospy006)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Prospy006&count_private=true&show_icons=true&include_all_commits=true&bg_color=50%2C000000%2C261043&text_color=edebac&border_color=00000000&title_color=edebac"/>
+    <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Prospy006&theme=dark&hide_border=true&mode=weekly&background=50%2C000000%2C261043" alt="GitHub Streak"/>
+</div>
 
 
 <!--
